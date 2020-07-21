@@ -22,7 +22,7 @@ file.symlink('/nfs/public-data/training', 'data')
 ```
 
 Otherwise, download the "data.zip" folder from the course syllabus (if
-not currently there, it will be posted after the course), and unzip it
+not currently there, it will be postedafter the course), and unzip it
 to this "handouts" folder. The result should be a subdirectory called
 "data" within this project.
 
