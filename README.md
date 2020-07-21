@@ -28,7 +28,7 @@ to this "handouts" folder. The result should be a subdirectory called
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 <<<<<<< HEAD
-- Audrey Smith (Dept. of Geography, University of Florida)
+- Audrey C. Smith (Dept. of Geography, University of Florida)
 
 Our team- Water-Conflict-Africa- is part of a sesync Pursuit project researching water scarcity/insecurity and conflict in Africa. For our mini-project, we will be investigating land/water grabs (large-scale land transactions) and conflict in Africa by analzying various datasets.
 
