@@ -29,5 +29,5 @@ to this "handouts" folder. The result should be a subdirectory called
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
 ##collaborators
-- Carly Muir (University of Florida, Department of Geography)
-- Audrey Smith (University of Florida)
+- Carly Muir (University of Florida,Department of Geography)
+- Audrey Smith (University of Florida, Department of Geography)
