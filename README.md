@@ -27,4 +27,9 @@ to this "handouts" folder. The result should be a subdirectory called
 "data" within this project.
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
-- Audrey Smith
+- Audrey Smith (Dept. of Geography, University of Florida)
+
+Our team- Water-Conflict-Africa- is part of a sesync Pursuit project researching water scarcity/insecurity and conflict in Africa. For our mini-project, we will be investigating land/water grabs (large-scale land transactions) and conflict in Africa by analzying various datasets.
+
+We both are PhD students in the Department of Geography at the University of Florida working on an NSF coupled human and natural systems project on large-scale land transactions in Ethiopia as part of our respective dissertation research.
+ 
